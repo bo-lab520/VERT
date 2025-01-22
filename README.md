@@ -1,3 +1,3 @@
 # VERT
 
-## S&P under review
+## under review
